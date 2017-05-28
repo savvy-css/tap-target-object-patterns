@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/tap-target-object-patterns",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tap-target object patterns for Savvy CSS.",
   "main": "build/tap-target-object-patterns.css",
   "style": "build/tap-target-object-patterns.css",
